@@ -15,7 +15,7 @@ export default defineUserConfig({
         text: 'una的博客',
         children: [
           { text: 'Github', link: '/' },
-          { text: '知乎', link: '/' },
+          { text: '知no乎', link: '/' },
           { text: '掘金', link: '/' },
         ],
       },
